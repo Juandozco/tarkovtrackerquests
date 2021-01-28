@@ -7717,5 +7717,28 @@
             "id":350
          }
       ]
-   }
+   },
+  {
+    "id": 194,
+    "require": {
+      "reputation":4
+    },
+    "giver": "Jaeger",
+    "turnin": "Jaeger",
+    "title": "Hunter",
+    "wiki": "https://escapefromtarkov.gamepedia.com/Hunter",
+    "nokappa": true,
+    "unlocks": [],
+    "exp":0,
+    "reputation": [],
+    "objectives": [
+      {
+        "type": "kill",
+        "target": "Shturman",
+        "number": 25,
+        "location": "Woods",
+        "id": 350
+      }
+    ]
+  }
 ]
